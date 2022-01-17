@@ -3,7 +3,7 @@ This is the source code of the project Violence Detection using Deep Learning by
 
 We used Google Colab to train, test, evaluate and make inferences of the model using VGG16 and LSTM. All the related source code is grouped in a single notebook called VGG16_LSTM_Hockey_Final.ipynb. 
 
-By default, this notebook will work on Hockey Fights dataset, but it can be easily swiched to work with the two other datasets including Movies Fights and Violent Flow. Please read the notebook for more details. 
+If you want to have a look at the training, testing and evaluating results for the three datasets, please open the corresponding notebook. If you want to train, just the VGG16_LSTM_Hockey_Final.ipynb is enough. By default, this notebook will work on Hockey Fights dataset, but it can be easily swiched to work with the two other datasets including Movies Fights and Violent Flow. Please read the notebook for more details. 
 
 The splitted dataset can be downloaded at: https://drive.google.com/file/d/1DxzRZ441wlaC5R0VtQZiNJVdaLBe3liO/view?usp=sharing
 
